@@ -1,0 +1,5 @@
+﻿  Character.cpp
+D:\C++_projects\RPG\RPG\Game.h(33,12): error C3646: 'Character': unknown override specifier
+D:\C++_projects\RPG\RPG\Game.h(33,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Game.cpp
+  Generating Code...
